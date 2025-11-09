@@ -66,5 +66,5 @@ streamlit
 ```
 
 ## 🧑‍💻 Author
-**Sabi**  
+**Sabiha Tasneem**  
 Senior Python Developer | Clinical NLP & Data-Centric AI
